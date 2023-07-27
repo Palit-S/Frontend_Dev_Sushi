@@ -10,7 +10,7 @@ import sushi7 from '../assets/sushi-7.png'
 import sushi6 from '../assets/sushi-6.png'
 
 import AOS from "aos";
-import "../aos/dist/aos.css";
+import "../node_modules/aos/dist/aos.css";
 
 // init AOS animation
 AOS.init({
